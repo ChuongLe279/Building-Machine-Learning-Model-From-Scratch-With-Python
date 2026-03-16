@@ -1,1 +1,1 @@
-﻿# Building-Machine-Learning-Model-From-Scratch-With-Python
+﻿# Building-Machine-Learning-Model-With-Python
